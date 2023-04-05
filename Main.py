@@ -52,6 +52,7 @@ def create_account_customer():
     print ("Your username:",username,',',"password:",password)
     print ("Congratulations, your account is created. Please exit and log in again to continue.")
 
+    
 #Checks if the user-entered password is correct:-
 def check_password(username,password):
     filehandle=open("UserID.dat",'rb')
