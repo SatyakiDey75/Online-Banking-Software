@@ -1,5 +1,5 @@
 # Online-Banking-Software
-This can be used to filter spam emails from a number of emails. This has been done using basic knowledge of Python File Handling and does not involve any Machine Learning Algorithms.
+This Project uses the concept of Python File Handling to create a Net Banking environment for the user. Online banking has proved to be very convenient at present times and it is emerging as the future of the banking system.
 
 ##
 ## How to Install
